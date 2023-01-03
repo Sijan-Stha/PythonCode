@@ -1,0 +1,1 @@
+This is new file created using append mode.This is more text appended to the newfile.txt
